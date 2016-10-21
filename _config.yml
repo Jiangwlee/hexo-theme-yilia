@@ -2,7 +2,8 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔
+  随笔: /tags/随笔/
+  安全: /tags/安全/
 
 # SubNav
 subnav:
@@ -40,7 +41,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: https://avatars3.githubusercontent.com/u/1829883?v=3&amp;s=466
 
 #是否开启分享
 share_jia: true
@@ -62,11 +63,11 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  #友情链接1: http://localhost:4000/
+  #友情链接2: http://localhost:4000/
+  #友情链接3: http://localhost:4000/
+  #友情链接4: http://localhost:4000/
+  #友情链接5: http://localhost:4000/
+  #友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme:     庄子有云，不积跬步，无以至千里，不积小流，无以成江海。学习一事，历来没有捷径，无外乎勤奋与积累。在任何一个领域，做得时间长了，若善于总结与提炼便可以成为一方专家。吾本愚钝，唯日夜不辍于学，方能独立于世。特开此博，记录学习点滴，帮助有缘之人，共同进步，共勉之！ 
