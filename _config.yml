@@ -7,16 +7,16 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/Jiangwlee"
+  #weibo: "#"
+  #rss: "#"
+  #zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
-  #linkedin: "#"
+  linkedin: "http://www.linkedin.com/in/%E6%B1%9F%E7%BB%B4-%E6%9D%8E-86581392?trk=hp-identity-name"
 
 rss: /atom.xml
 
@@ -63,7 +63,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  #友情链接1: http://localhost:4000/
+  Litten的Blog: http://litten.github.io/
   #友情链接2: http://localhost:4000/
   #友情链接3: http://localhost:4000/
   #友情链接4: http://localhost:4000/
