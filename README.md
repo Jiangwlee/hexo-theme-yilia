@@ -1,6 +1,14 @@
 hexo-theme-yilia
 ================
 
+## 零、个人说明
+
+Yilia的源码来自于https://github.com/litten/hexo-theme-yilia.git项目。我很喜欢Yilia简洁的风格，故克隆此项目作为个人blog的模版。我的个人博客在此模版上做了少许修改，比如一些文字、图片或者链接。
+
+非常感谢litten制作出如此优秀的hexo主题！以下是来自于litten对于Yilia的说明：
+
+---------------------
+
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.github.io/) 查看效果。           
  
