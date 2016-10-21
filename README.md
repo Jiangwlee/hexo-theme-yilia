@@ -3,7 +3,7 @@ hexo-theme-yilia
 
 ## 零、个人说明
 
-Yilia的源码来自于https://github.com/litten/hexo-theme-yilia.git项目。我很喜欢Yilia简洁的风格，故克隆此项目作为个人blog的模版。我的个人博客在此模版上做了少许修改，比如一些文字、图片或者链接。
+Yilia的源码来自于<https://github.com/litten/hexo-theme-yilia.git>项目。我很喜欢Yilia简洁的风格，故克隆此项目作为个人blog的模版。我的个人博客在此模版上做了少许修改，比如一些文字、图片或者链接。
 
 非常感谢litten制作出如此优秀的hexo主题！以下是来自于litten对于Yilia的说明：
 
